@@ -210,10 +210,8 @@ if (empty($bans)) {
         <footer class="cyber-footer">
             <div class="footer-content">
                 <div class="footer-links">
-                    <a href="#"><i class="fas fa-server"></i> 服务器状态</a>
-                    <a href="#"><i class="fas fa-question-circle"></i> 帮助中心</a>
-                    <a href="#"><i class="fas fa-shield-alt"></i> 社区规则</a>
-                    <a href="/admin/index.php"><i class="fas fa-cog"></i> 管理面板</a>
+                    <a href="https://github.com/balareshe/BAN-SYSTEM"><i class="fas fa-question-circle"></i> 作者</a>
+                    <a href="/admin/index.php"><i class="fas fa-cog"></i> 管理</a>
                 </div>
                 <div class="footer-info">
                     <p>Minecraft 封禁公示系统 &copy; <?php echo date('Y'); ?> | Powered by PHP + MySQL</p>
